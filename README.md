@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EchannyE
 - 👀 I’m interested in frontend Web Dev
 - 🌱 I’m currently learning 
-- 😄 Pronouns: Chacha
+- 😄 Pronouns: She
 - ⚡ Fun fact: Identical twins don't have the same fingerprints
 
 <!---
