@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @EchannyE
-- 👀 I’m interested in frontend Web Dev
-- 🌱 I’m currently learning 
+- 👀 I’m a frontend Web Dev{HTML, CSS, JAVASCRIPT, TAILWIND CSS, REACT.JS}
+- 🌱 I’m open to Internship and more learning 
 - 😄 Pronouns: She
-- ⚡ Fun fact: Identical twins don't have the same fingerprints
+- ⚡ Fun fact: Identical twins don't have the same fingerprints. Hence, am unique in my own way.
+  
 
 <!---
 EchannyE/EchannyE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
